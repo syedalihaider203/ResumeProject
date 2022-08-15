@@ -10,12 +10,12 @@ import styles from "./Body.module.css";
 function Body() {
   const colors = ["#239ce2", "#48bb78", "#0bc5ea", "#a0aec0", "#ed8936"];
   const sections = {
-    basicInfo: "Basic Info",
+    basicInfo: "Introduction",
+    summary: "Summary",
     workExp: "Work Experience",
     project: "Projects",
     education: "Education",
     achievement: "Achievements",
-    summary: "Summary",
     other: "Other",
   };
   const resumeRef = useRef();

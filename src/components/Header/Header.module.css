@@ -1,12 +1,12 @@
 .container {
   padding: 50px 30px;
-  text-align: center;
+  text-align: left;
   width: 100%;
   display: flex;
   align-items: center;
   justify-content: space-evenly;
   gap: 30px;
-  background-color: rgb(238, 252, 255);
+  background-color: rgb(180, 248, 164);
   min-height: 85vh;
 }
 
@@ -22,7 +22,7 @@
 
 .heading span {
   background-clip: text;
-  background-image: linear-gradient(to right, #239ce2, #1369b9);
+  background-image: linear-gradient(to right, #23e299, #21b913);
   color: transparent;
 }
 
